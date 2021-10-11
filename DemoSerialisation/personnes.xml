@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personnes>
+    <personnes nom="A">
+        <dateDeNaissance>
+            <annee>1990</annee>
+            <jour>1</jour>
+            <mois>1</mois>
+        </dateDeNaissance>
+        <prenom>B</prenom>
+    </personnes>
+    <personnes nom="C">
+        <dateDeNaissance>
+            <annee>1990</annee>
+            <jour>1</jour>
+            <mois>1</mois>
+        </dateDeNaissance>
+        <prenom>D</prenom>
+    </personnes>
+    <personnes nom="E">
+        <dateDeNaissance>
+            <annee>1990</annee>
+            <jour>1</jour>
+            <mois>1</mois>
+        </dateDeNaissance>
+        <prenom>F</prenom>
+    </personnes>
+    <personnes nom="G">
+        <dateDeNaissance>
+            <annee>1990</annee>
+            <jour>1</jour>
+            <mois>1</mois>
+        </dateDeNaissance>
+        <prenom>H</prenom>
+    </personnes>
+    <personnes nom="I">
+        <dateDeNaissance>
+            <annee>1990</annee>
+            <jour>1</jour>
+            <mois>1</mois>
+        </dateDeNaissance>
+        <prenom>J</prenom>
+    </personnes>
+    <personnes nom="K">
+        <dateDeNaissance>
+            <annee>1990</annee>
+            <jour>1</jour>
+            <mois>1</mois>
+        </dateDeNaissance>
+        <prenom>L</prenom>
+    </personnes>
+</personnes>

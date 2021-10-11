@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<etudiant nom="Bernardellli">
+    <dateDeNaissance>
+        <annee>1999</annee>
+        <jour>17</jour>
+        <mois>12</mois>
+    </dateDeNaissance>
+    <prenom>Stéphane</prenom>
+</etudiant>
